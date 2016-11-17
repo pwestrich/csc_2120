@@ -1,0 +1,28 @@
+<instructors>
+
+<instructor>
+<name>Mark Boshart</name>
+<courses>
+
+
+   <course>
+      <class>CSC 2120</class>
+      <section>001</section>
+
+      <time>8:00 - 8:55</time>
+      <room>Bruner 211</room>
+   </course>
+   <course>
+      <class>CSC 2020</class>
+      <section>001</section>
+      <time>10:10 - 11:05</time>
+      <room>Bruner 211</room>
+   </course>
+   <course>
+      <class>CSC 3020</class>
+      <section>001</section>
+      <time>2:30 - 3:25</time>
+      <room>Bruner 404</room>
+   </course>
+</courses>
+</instructor>

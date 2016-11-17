@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=Decks(int)
+comment0.text=\n\ \ Constructor\ to\ create\ several\ copies\ of\ the\ standard\ 52\ deck\ of\ cards\ and\ to\ shuffle\ them\ all\ together.\n
+comment1.params=
+comment1.target=void\ shuffle()
+comment1.text=\n\ \ Shuffles\ the\ Cards\ by\ selecting\ a\ random\ location\ for\ each\ Card.\n\ \ Create\ a\ new\ array\ of\ Cards.\ \ \n\ \ Move\ each\ Card\ in\ the\ original\ Deck\ to\ a\ random\ location\ in\ the\ new\ Deck.\n\ \ Set\ count\ so\ that\ all\ of\ the\ cards\ are\ available\ again.\n
+comment2.params=
+comment2.target=Card\ deal()
+comment2.text=\n\ \ Returns\ the\ next\ Card\ in\ the\ Deck.\ \ If\ the\ Deck\ is\ empty,\ the\ Deck\ is\ shuffled.\n\ \ Use\ your\ count\ instance\ variable\ to\ determine\ which\ Card\ to\ return.\n\ \ Decrement\ count.\n
+comment3.params=
+comment3.target=int\ getCount()
+comment3.text=\n\ \ Returns\ the\ number\ of\ Cards\ remaining\ in\ the\ Deck.\n
+comment4.params=
+comment4.target=int\ getNumDecks()
+comment4.text=\n\ \ Returns\ the\ number\ of\ Decks.\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ \ Lists\ the\ Cards\ remaining\ in\ the\ Deck.\n
+numComments=6
